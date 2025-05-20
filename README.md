@@ -6,3 +6,4 @@
 ---
 
 - [느려진 서비스, 어디부터 봐야 할까](https://jinwonyoon.notion.site/1f56a89b208780a4af43cc88f23c5ea2?pvs=4)
+- [성능을 좌우하는 DB 설계와 쿼리](https://jinwonyoon.notion.site/DB-1f56a89b20878006abe0fc446dcbf7fa?pvs=4)
